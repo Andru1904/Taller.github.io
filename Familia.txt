@@ -1,0 +1,9 @@
+Heliodora 	Cardozo	f	1942-11-15	3214205789
+Gustavo 	Diaz	m	1942-04-04	3157826941
+Augusto	Diaz	m 	1967-10-10	3004521482
+Leonel 	Diaz	m	1969-09-28	3212548962
+Liliana	Diaz	f	1972-03-13	3014527896
+Fanny 	Diaz	f	1974-02-24	3213654820
+Adolfo 	Diaz	m	1992-02-18	3145789314	
+Yesica 	Cabezas	f	1992-12-16	3194578945
+Daniel	Diaz	m	1993-10-23	3157896301
